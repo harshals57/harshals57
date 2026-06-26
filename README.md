@@ -42,8 +42,6 @@ I'm passionate about building AI-powered applications, backend systems, and full
 
 </tr>
 </table>
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -51,10 +49,8 @@ I'm passionate about building AI-powered applications, backend systems, and full
 <a href="https://github.com/harshals57">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
-
 <a href="https://linkedin.com/in/harshal-s-6697951b9">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
-
 </p>
 
