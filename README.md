@@ -12,25 +12,13 @@ I'm passionate about building AI-powered applications, backend systems, and full
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Cloud Computing
-- System Design
-- Backend Development
-- Gemini API
-- Firebase
-
+- Artificial Intelligence - Cloud Computing - System Design
+- Backend Development - Gemini API - Firebase
 ---
-
 ## 🎯 Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Backend Engineering
-- Computer Vision
-- Developer Tools
-- Open Source
-
+- Artificial Intelligence - Machine Learning - Full Stack Development
+- Backend Engineering - Computer Vision - Developer Tools - Open Source
 
 ## 📫 Connect With Me
 
