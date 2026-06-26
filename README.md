@@ -42,6 +42,7 @@ I'm passionate about building AI-powered applications, backend systems, and full
 
 </tr>
 </table>
+
 ## 📫 Connect with Me
 
 <p align="center">
