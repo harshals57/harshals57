@@ -7,6 +7,7 @@ I'm passionate about building AI-powered applications, backend systems, and full
 
 ---
 
+
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
@@ -28,15 +29,6 @@ I'm passionate about building AI-powered applications, backend systems, and full
 - Developer Tools
 - Open Source
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshals57&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshals57&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
