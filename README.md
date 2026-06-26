@@ -1,42 +1,57 @@
+<table>
+<tr>
 
-# Hi, I'm Harshal 👋
+<td width="50%" valign="top">
 
-🎓 Computer Science (AI & Machine Learning) undergraduate at PES University, Bengaluru
+# 👋 Hi, I'm Harshal
 
-I'm passionate about building AI-powered applications, backend systems, and full-stack software that solve real-world problems. I enjoy hackathons, learning new technologies, and turning ideas into working products.
+Computer Science (AI & ML) Student
 
----
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 💻 Tech Stack
 
+Your badges go here
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Interests
+
+- Artificial Intelligence
+- Backend Engineering
+- Open Source
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence - Cloud Computing - System Design
-- Backend Development - Gemini API - Firebase
+- Gemini API
+- Firebase
+- Docker
+
+</td>
+
+</tr>
+</table>
 ---
-## 🎯 Interests
 
-- Artificial Intelligence - Machine Learning - Full Stack Development
-- Backend Engineering - Computer Vision - Developer Tools - Open Source
+## 📫 Connect with Me
 
-## 📫 Connect With Me
+<p align="center">
 
-- GitHub: https://github.com/harshals57
-- LinkedIn: https://www.linkedin.com/in/harshal-s-6697951b9/
+<a href="https://github.com/harshals57">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-> "Always building, always learning."
-<!--
-**harshals57/harshals57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/harshal-s-6697951b9">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-Here are some ideas to get you started:
+</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
