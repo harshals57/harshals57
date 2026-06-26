@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Harshal 👋
 
 🎓 Computer Science (AI & Machine Learning) undergraduate at PES University, Bengaluru
